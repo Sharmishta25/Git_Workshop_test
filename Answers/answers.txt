@@ -1,0 +1,7 @@
+1.mkdir command
+2.CTRL+H, ls -a
+3.git init
+4.cat
+5.git config --edit
+6.Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories. In simple terms, you can use git without Github, but you cannot use GitHub without Git.Github is a web-based platform that incorporates git's version control features so they can  be used collaboratively.
+
